@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Advanced ML, Deep Learning, and Android Development (Java)
 - 👯 I’m looking to collaborate on ML, Data Science & Java-based projects
 - 🤔 I’m looking for help with scaling ML models and deployment
-- 💬 Ask me about Python, SQL, Java, Data Structures, ML basics
-- 📫 How to reach me: LinkedIn – linkedin.com/in/vanya-nain-2a5739303
 - ⚡ Fun fact: I enjoy solving real-world problems using ML models 🚀
 
 
