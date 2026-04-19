@@ -6,7 +6,7 @@
 - 💬 Ask me about Python, SQL, Java, Data Structures, ML basics
 - 📫 How to reach me: LinkedIn – linkedin.com/in/vanya-nain-2a5739303
 - ⚡ Fun fact: I enjoy solving real-world problems using ML models 🚀
--->
+
 
 <!--
 **Vanyanain/Vanyanain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
