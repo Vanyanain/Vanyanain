@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Widescreen Premium Moving 3D Going Merry Ship Animation -->
-<img src="3d_ship.gif?v=2" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
+<img src="going_merry.gif?v=2" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
 
 <!-- Animated Typewriter Title -->
 <br />
@@ -200,15 +200,15 @@ An advanced Android application designed to track every single Berry spent on yo
 <table border="0" cellpadding="5" cellspacing="0">
 <tr>
 <td>
-<img src="https://github-readme-stats.shion.dev/api?username=Vanyanain&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="GitHub Stats" height="195px" />
+<img src="https://github-readme-stats.shion.dev/api?username=Vanyanain&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="GitHub Stats" height="195" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanyanain&theme=tokyonight&background=0d1117&ring=ffcc00&fire=ff3333&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=ffcc00" alt="Streak Stats" height="195px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanyanain&theme=tokyonight&background=0d1117&ring=ffcc00&fire=ff3333&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=ffcc00" alt="Streak Stats" height="195" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" style="padding-top: 10px;">
-<img src="https://github-readme-stats.shion.dev/api/top-langs?username=Vanyanain&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="Top Languages" width="100%" style="max-width: 500px;" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=Vanyanain&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="Top Languages" width="400" />
 </td>
 </tr>
 </table>
@@ -223,3 +223,4 @@ An advanced Android application designed to track every single Berry spent on yo
 <p>🤖 Designed with 💖 and 🏴‍☠️ spirit. Feel free to leave a star on this profile repository! 🌟</p>
 <p><sub>🚢 3D Ship visual inspired by artwork by WangXiNa on Magnific</sub></p>
 </div>
+
