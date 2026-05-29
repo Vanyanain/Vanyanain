@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50">
+  <style>
+    @keyframes type {
+      0% { width: 0px; }
+      5% { width: 0px; }
+      40% { width: 100%; }
+      90% { width: 100%; }
+      95% { width: 0px; }
+      100% { width: 0px; }
+    }
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      fill: #ffcc00;
+      font-size: 20px;
+    }
+    .reveal-rect {
+      animation: type 6s steps(45) infinite;
+    }
+  </style>
+  <mask id="char-mask">
+    <rect class="reveal-rect" x="0" y="0" width="100%" height="50" fill="white" />
+  </mask>
+  <text x="10" y="35" class="text" mask="url(#char-mask)">🏴‍☠️ Marine Expeditions (My Journey &amp; Experience)</text>
+</svg>
