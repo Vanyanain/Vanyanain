@@ -3,7 +3,7 @@
   <img src="3d_ship.png" width="320" alt="3D Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
 
   <h1>🏴‍☠️ Vanya Nain 🏴‍☠️</h1>
-  <h3>✨ Machine Learning Adventurer & Future Queen of the Pirates ✨</h3>
+  <h3>✨ Machine Learning Adventurer ✨</h3>
   
   <p>
     <a href="https://linkedin.com/in/vanya-nain-2a5739303/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
