@@ -218,6 +218,5 @@ An advanced Android application designed to track every single Berry spent on yo
 <div align="center">
 <p>🌟 <i>"Inherited Will, The Destiny of Age, and The Dreams of People. As long as people continue to pursue the meaning of Freedom, these things will never cease to be!"</i> — <b>Gol D. Roger</b></p>
 <p>🤖 Designed with 💖 and 🏴‍☠️ spirit. Feel free to leave a star on this profile repository! 🌟</p>
-<p><sub>🚢 3D Ship visual inspired by artwork by WangXiNa on Magnific</sub></p>
 </div>
 
