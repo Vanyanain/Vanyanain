@@ -24,7 +24,6 @@
     <!-- Right Column: About Me & Quotes -->
     <td width="65%" valign="top">
       <h2>💫 About Me:</h2>
-      <h3>Hi there 👋</h3>
       <ul>
         <li>🔭 I’m currently working on Machine Learning & Data Science projects</li>
         <li>🌱 I’m currently learning Advanced ML, Deep Learning, and Android Development</li>
