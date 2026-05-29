@@ -159,21 +159,7 @@ Constructed a financial dashboard inspired by Modern Portfolio Theory, optimizin
 </td>
 <!-- Project 4 -->
 <td width="50%" valign="top" style="padding: 10px; border: none;">
-<div style="background-color: #0d1117; border: 1.5px solid #ffcc00; border-radius: 8px; padding: 15px; min-height: 180px; box-shadow: 0px 4px 10px rgba(0,0,0,0.35);">
-<h4 style="color: #ffcc00; margin-top: 0; margin-bottom: 10px;">🤖 Reinforcement Learning Trading Agent</h4>
-<p style="font-size: 0.9em; line-height: 1.4; color: #c9d1d9; margin-bottom: 10px;">
-An autonomous trading bot designed to explore market oceans and navigate trading decisions using Deep Q-Networks (DQN) and Proximal Policy Optimization (PPO).
-</p>
-<div style="font-size: 0.8em; color: #8b949e; font-weight: bold;">
-🛠️ Python • PyTorch • Stable-Baselines3
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<!-- Project 5 (Centered span) -->
-<td colspan="2" valign="top" style="padding: 10px; border: none;">
-<div style="background-color: #0d1117; border: 1.5px solid #ff3333; border-radius: 8px; padding: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.35);">
+<div style="background-color: #0d1117; border: 1.5px solid #ff3333; border-radius: 8px; padding: 15px; min-height: 180px; box-shadow: 0px 4px 10px rgba(0,0,0,0.35);">
 <h4 style="color: #ff3333; margin-top: 0; margin-bottom: 10px;">📱 Smart Wallet — AI Expense Manager</h4>
 <p style="font-size: 0.9em; line-height: 1.4; color: #c9d1d9; margin-bottom: 10px;">
 An advanced Android application designed to track every single Berry spent on your voyage! Features real-time AI OCR receipt scanning, intelligent budget categorization, and cloud synchronization.
@@ -185,6 +171,8 @@ An advanced Android application designed to track every single Berry spent on yo
 </td>
 </tr>
 </table>
+
+
 
 <br />
 
