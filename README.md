@@ -3,7 +3,7 @@
   <img src="3d_ship.png" width="320" alt="3D Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
 
   <h1>🏴‍☠️ Vanya Nain 🏴‍☠️</h1>
-  <h3>✨ Machine Learning Adventurer ✨</h3>
+  <h3>✨ Machine Learning Adventurer & Future Queen of the Pirates ✨</h3>
   
   <p>
     <a href="https://linkedin.com/in/vanya-nain-2a5739303/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
@@ -24,10 +24,13 @@
     <!-- Right Column: About Me & Quotes -->
     <td width="65%" valign="top">
       <h2>💫 About Me:</h2>
+      <h3>Hi there 👋</h3>
       <ul>
         <li>🔭 I’m currently working on Machine Learning & Data Science projects</li>
         <li>🌱 I’m currently learning Advanced ML, Deep Learning, and Android Development</li>
         <li>👯 I’m looking to collaborate on ML, Data Science & Java-based projects</li>
+        <li>🤔 I’m looking for help with scaling ML models and deployment</li>
+        <li>⚡ Fun fact: I enjoy solving real-world problems using ML models 🚀</li>
       </ul>
       <blockquote>
         <h4>⚓ Words of the Crew</h4>
@@ -41,59 +44,54 @@
 
 <br />
 
-<h2>💻 Tech Stack (All Badges):</h2>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-
-<br />
-
-<h2>🧠 Devil Fruits & Haki (Classified Skills):</h2>
+<h2>🧠 Devil Fruits & Haki (Tech Stack):</h2>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Devil Fruits -->
-    <td valign="top" width="33%" style="border: none;">
+    <td valign="top" width="33%" style="border: none; padding: 10px;">
       <h3>🧠 Devil Fruits (Languages & DBs)</h3>
-      <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>SQL & HTML</li>
-        <li>MySQL</li>
-        <li>SQLite</li>
-        <li>MongoDB</li>
-        <li>Context API</li>
-      </ul>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><br />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /><br />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br />
+      <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context-API" /><br />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     </td>
     <!-- Haki -->
-    <td valign="top" width="34%" style="border: none;">
+    <td valign="top" width="34%" style="border: none; padding: 10px;">
       <h3>🔮 Haki (ML, Deep Learning & AI)</h3>
-      <ul>
-        <li>Machine Learning</li>
-        <li>Deep Learning</li>
-        <li>Reinforcement Learning</li>
-        <li>TensorFlow & Keras</li>
-        <li>PyTorch</li>
-        <li>Scikit-Learn</li>
-        <li>Pandas & NumPy</li>
-        <li>SciPy & Plotly</li>
-        <li>MLflow & OpenCV</li>
-      </ul>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /><br />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" /><br />
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /><br />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /><br />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><br />
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" /><br />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /><br />
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /><br />
+      <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLFlow" /><br />
+      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     </td>
     <!-- Grand Line Gear -->
-    <td valign="top" width="33%" style="border: none;">
+    <td valign="top" width="33%" style="border: none; padding: 10px;">
       <h3>🛠️ Grand Line Gear (Dev & Cloud)</h3>
-      <ul>
-        <li>Android Development</li>
-        <li>Android Studio & Gradle</li>
-        <li>Git & GitHub</li>
-        <li>Streamlit & Vercel</li>
-        <li>Firebase</li>
-        <li>Azure</li>
-        <li>AWS</li>
-        <li>Google Cloud</li>
-        <li>Cisco & Meta</li>
-        <li>Figma, Canva & Adobe</li>
-      </ul>
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /><br />
+      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /><br />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br />
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br />
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /><br />
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /><br />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><br />
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /><br />
+      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /><br />
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br />
+      <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" /><br />
+      <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta" /><br />
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /><br />
+      <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
     </td>
   </tr>
 </table>
@@ -202,7 +200,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanyanain&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="Top Languages" width="100%" style="max-width: 500px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanyanain&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffcc00&text_color=ffffff&icon_color=ff3333&border_color=ffcc00" alt="Top Languages" width="100%" style="max-width: 500px;" />
       </td>
     </tr>
   </table>
