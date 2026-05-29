@@ -1,10 +1,10 @@
 <div align="center">
 <!-- Widescreen Premium Moving 3D Going Merry Ship Animation -->
-<img src="3d_ship.gif" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
+<img src="3d_ship.gif?v=2" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin-bottom: 10px;" />
 
 <!-- Animated Typewriter Title -->
 <br />
-<img src="header_name.svg" height="45" alt="🏴‍☠️ Vanya Nain 🏴‍☠️" />
+<img src="header_name.svg?v=2" height="45" alt="🏴‍☠️ Vanya Nain 🏴‍☠️" />
 <h3>✨ Machine Learning Adventurer & Future Queen of the Pirates ✨</h3>
 
 <p>
@@ -21,7 +21,7 @@
 <tr>
 <!-- Left Column: Wanted Poster -->
 <td width="35%" align="center" valign="top">
-<img src="wanted_poster.png" width="100%" alt="Vanya Nain Wanted Poster" />
+<img src="wanted_poster.png?v=2" width="100%" alt="Vanya Nain Wanted Poster" />
 </td>
 <!-- Right Column: About Me & Quotes -->
 <td width="65%" valign="top">
@@ -47,7 +47,7 @@
 <br />
 
 <!-- Animated Typewriter Header: Tech Stack -->
-<img src="header_tech.svg" height="40" alt="🧠 Devil Fruits & Haki (Tech Stack):" />
+<img src="header_tech.svg?v=2" height="40" alt="🧠 Devil Fruits & Haki (Tech Stack):" />
 <br /><br />
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -101,7 +101,7 @@
 <br />
 
 <!-- Animated Typewriter Header: Experience -->
-<img src="header_exp.svg" height="40" alt="🏴‍☠️ Marine Expeditions (My Journey & Experience)" />
+<img src="header_exp.svg?v=2" height="40" alt="🏴‍☠️ Marine Expeditions (My Journey & Experience)" />
 <br /><br />
 
 - 🌟 **GirlScript Summer of Code (GSSoC)** | *Open Source Contributor* (May 2026 - Aug 2026)
@@ -116,7 +116,7 @@
 <br />
 
 <!-- Animated Typewriter Header: Projects -->
-<img src="header_projects.svg" height="40" alt="🏴‍☠️ Legendary Voyages (Featured Projects)" />
+<img src="header_projects.svg?v=2" height="40" alt="🏴‍☠️ Legendary Voyages (Featured Projects)" />
 <br /><br />
 
 <!-- Project Cards Grid -->
@@ -192,7 +192,7 @@ An advanced Android application designed to track every single Berry spent on yo
 <br />
 
 <!-- Animated Typewriter Header: Bounty Board -->
-<img src="header_bounty.svg" height="40" alt="📊 The Bounty Board (GitHub Stats)" />
+<img src="header_bounty.svg?v=2" height="40" alt="📊 The Bounty Board (GitHub Stats)" />
 <br /><br />
 
 <div align="center">
