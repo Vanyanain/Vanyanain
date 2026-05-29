@@ -29,8 +29,6 @@
         <li>🔭 I’m currently working on Machine Learning & Data Science projects</li>
         <li>🌱 I’m currently learning Advanced ML, Deep Learning, and Android Development</li>
         <li>👯 I’m looking to collaborate on ML, Data Science & Java-based projects</li>
-        <li>🤔 I’m looking for help with scaling ML models and deployment</li>
-        <li>⚡ Fun fact: I enjoy solving real-world problems using ML models 🚀</li>
       </ul>
       <blockquote>
         <h4>⚓ Words of the Crew</h4>
