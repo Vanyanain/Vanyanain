@@ -27,15 +27,14 @@
 <td width="65%" valign="top">
 <h2>💫 About Me:</h2>
 <ul>
-<li>🔭 I’m currently working on Machine Learning & Data Science projects</li>
-<li>🌱 I’m currently learning Advanced ML, Deep Learning, and Android Development</li>
+<li>🌱 I’m currently learning and working with Advanced ML, Deep Learning, and Android Development</li>
 <li>👯 I’m looking to collaborate on ML, Data Science & Java-based projects</li>
 </ul>
 <blockquote>
 <h4>⚓ Words of the Crew</h4>
 <p><i>"I'm doing this because I want to! It doesn't matter if I can or not."</i> — <b>Luffy</b></p>
 <p><i>"I want to live! Take me out to the sea with you!"</i> — <b>Robin</b></p>
-<p><i>"Only those who have suffered long can see the light within the shadows."</i> — <b>One Piece</b></p>
+<p><i>"Only those who have suffered long can see the light within the shadows."</i> — <b>Ace</b></p>
 </blockquote>
 </td>
 </tr>
