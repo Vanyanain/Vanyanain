@@ -62,7 +62,6 @@
 </td>
 <!-- Right Column: About Me & Quotes -->
 <td width="65%" valign="top">
-<h2>💫 About Me:</h2>
 <ul>
 <li>🌱 Currently sailing deeper into <b>Advanced ML, Deep Learning & Android Development</b></li>
 <li>👯 Looking to crew up on <b>ML, Data Science & Java-based</b> voyages</li>
