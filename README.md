@@ -236,10 +236,6 @@ An advanced Android application designed to track every single Berry spent on yo
 </tr>
 </table>
 
-<!-- Trophy Case -->
-<br />
-<img src="https://github-trophies.vercel.app/?username=Vanyanain&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=ffcc00" alt="Trophy Case" />
-
 <!-- Contribution Activity Graph -->
 <br /><br />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanyanain&bg_color=0d1117&color=ffcc00&line=ff3333&point=ffffff&area=true&hide_border=true&custom_title=⚓%20Grand%20Line%20Contribution%20Voyage" alt="Activity Graph" width="95%" />
