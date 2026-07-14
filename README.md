@@ -207,8 +207,7 @@ An advanced Android application designed to track every single Berry spent on yo
 </div>
 <div align="center">
 
-<!-- ═══════════════ ONE PIECE BANNER ═══════════════ -->
-<img src="one_piece_banner.png" width="100%" alt="One Piece Grand Line Banner" style="border-radius: 12px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff3333,100:ffcc00&height=200&section=header&text=Welcome%20to%20the%20Grand%20Line&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚓%20Vanya%20Nain's%20Pirate%20Log%20⚓&descSize=18&descAlignY=55" width="100%" alt="One Piece Grand Line Banner" />
 
 <!-- Widescreen Premium Moving 3D Going Merry Ship Animation -->
 <img src="going_merry.gif?v=2" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin: 12px 0;" />
