@@ -133,6 +133,7 @@
 <!-- Animated Typewriter Header: Experience -->
 <img src="header_exp.svg?v=2" height="40" alt="🏴‍☠️ Marine Expeditions (My Journey & Experience)" />
 <br /><br />
+
 - 🎤 **TEDx SRMIST** | *Curation Lead* (Sep 2025 - May 2026)
   - Led speaker curation and coordinated event content and storytelling.
 - ⚙️ **ISTE SRMIST** | *Tech Team Core Member* (Jul 2024 - Apr 2026)
