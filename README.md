@@ -1,37 +1,31 @@
 
-<!-- ═══════════════ GRAND LINE BANNER ═══════════════ -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff3333,100:ffcc00&height=200&section=header&text=Welcome%20to%20the%20Grand%20Line&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚓%20Vanya%20Nain's%20Pirate%20Log%20⚓&descSize=18&descAlignY=55" width="100%" alt="One Piece Grand Line Banner" />
+</p>
 
-<!-- Widescreen Premium Moving 3D Going Merry Ship Animation -->
-<img src="going_merry.gif?v=2" width="320" alt="3D Animated Going Merry Ship" style="border-radius: 8px; margin: 12px 0;" />
+<p align="center">
+<img src="going_merry.gif?v=2" width="320" alt="3D Animated Going Merry Ship" />
+</p>
 
-<!-- Animated Typewriter Title -->
-<br />
+<p align="center">
 <img src="header_name.svg?v=2" height="45" alt="🏴‍☠️ Vanya Nain 🏴‍☠️" />
+</p>
 
-<h3>✨ Machine Learning & Software Development Adventurer sailing the Grand Line of Code ✨</h3>
+<h3 align="center">✨ Machine Learning & Software Development Adventurer sailing the Grand Line of Code ✨</h3>
 
-<!-- Animated typing tagline -->
+<p align="center">
 <a href="https://github.com/Vanyanain">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=600&lines=Setting+sail+on+the+Grand+Line+of+Machine+Learning;Chasing+the+One+Piece+of+Deep+Learning;Building+Android+apps+worthy+of+a+Yonko;I'm+gonna+be+King+of+the+Coders!" alt="Typing SVG" />
 </a>
+</p>
 
-<!-- Profile Views + Followers -->
-<br />
-<img src="https://komarev.com/ghpvc/?username=Vanyanain&label=Crew%20Sightings&color=ffcc00&style=flat-square" alt="Profile Views" />
-<a href="https://github.com/Vanyanain?tab=followers"><img src="https://img.shields.io/github/followers/Vanyanain?label=Nakama&style=flat-square&color=ff3333&logo=github" alt="Followers" /></a>
-
-<!-- Social Badges -->
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/vanya-nain-2a5739303/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
 <a href="mailto:vanyanain19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
 <a href="https://github.com/Vanyanain"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
 </p>
 
-</div>
-
 <hr />
-
 <!-- ═══════════════ LOG POSE: NAVIGATE MY ISLANDS (PORTFOLIOS) ═══════════════ -->
 <div align="center">
 
