@@ -207,6 +207,7 @@ An advanced Android application designed to track every single Berry spent on yo
 </div>
 <div align="center">
 
+<!-- ═══════════════ GRAND LINE BANNER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff3333,100:ffcc00&height=200&section=header&text=Welcome%20to%20the%20Grand%20Line&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚓%20Vanya%20Nain's%20Pirate%20Log%20⚓&descSize=18&descAlignY=55" width="100%" alt="One Piece Grand Line Banner" />
 
 <!-- Widescreen Premium Moving 3D Going Merry Ship Animation -->
@@ -376,21 +377,24 @@ An advanced Android application designed to track every single Berry spent on yo
 <p style="font-size: 0.9em; line-height: 1.4; color: #c9d1d9; margin-bottom: 10px;">
 Built a robust transaction fraud detection system utilizing machine learning, designed to shield data assets from pirate thieves using LightGBM and hyperparameter optimization.
 </p>
-<div style="font-size: 0.8em; color: #8b949e; font-weight: bold;">
+<div style="font-size: 0.8em; color: #8b949e; font-weight: bold; margin-bottom: 10px;">
 🛠️ Python • Scikit-learn • LightGBM
 </div>
+<a href="https://credit-card-fraud-detection-hmb5vnsbxadshlsw2gtxr6.streamlit.app/"><img src="https://img.shields.io/badge/🚢_Live_Demo-Imbalanced_Data-ffcc00?style=flat-square&labelColor=0d1117" alt="Live Demo — Imbalanced Dataset" /></a>
+<a href="https://credit-card-fraud-detection-balanced-data-ekft7frbmnbtpbmhe8hj.streamlit.app/"><img src="https://img.shields.io/badge/🚢_Live_Demo-Balanced_Data-ffcc00?style=flat-square&labelColor=0d1117" alt="Live Demo — Balanced Dataset" /></a>
 </div>
 </td>
 <!-- Project 2 -->
 <td width="50%" valign="top" style="padding: 10px; border: none;">
 <div style="background-color: #0d1117; border: 1.5px solid #ff3333; border-radius: 8px; padding: 15px; min-height: 180px; box-shadow: 0px 4px 10px rgba(0,0,0,0.35);">
-<h4 style="color: #ff3333; margin-top: 0; margin-bottom: 10px;">📈 Stock Price Prediction Dashboard</h4>
+<h4 style="color: #ff3333; margin-top: 0; margin-bottom: 10px;">⏳ Deadline — The Last-Minute Life Saver</h4>
 <p style="font-size: 0.9em; line-height: 1.4; color: #c9d1d9; margin-bottom: 10px;">
-Developed an intelligent forecasting dashboard to predict stock trends using LSTM neural networks, aiding in navigating volatile market waters.
+An autonomous AI productivity agent that turns a chaotic brain-dump into a prioritized, scheduled battle plan! Powered by Gemini function-calling with proactive at-risk detection, an AI coach with voice, and human-in-the-loop approvals — because no nakama's deadline gets left behind.
 </p>
-<div style="font-size: 0.8em; color: #8b949e; font-weight: bold;">
-🛠️ Python • TensorFlow • LSTM • Streamlit
+<div style="font-size: 0.8em; color: #8b949e; font-weight: bold; margin-bottom: 10px;">
+🛠️ React • FastAPI • Gemini AI • Firestore • Cloud Run
 </div>
+<a href="https://deadline-893289924230.asia-south1.run.app"><img src="https://img.shields.io/badge/🚢_Live_App-Set_Sail-ff3333?style=flat-square&labelColor=0d1117" alt="Live App" /></a>
 </div>
 </td>
 </tr>
@@ -414,9 +418,10 @@ Constructed a financial dashboard inspired by Modern Portfolio Theory, optimizin
 <p style="font-size: 0.9em; line-height: 1.4; color: #c9d1d9; margin-bottom: 10px;">
 An advanced Android application designed to track every single Berry spent on your voyage! Features real-time AI OCR receipt scanning, intelligent budget categorization, and cloud synchronization.
 </p>
-<div style="font-size: 0.8em; color: #8b949e; font-weight: bold;">
+<div style="font-size: 0.8em; color: #8b949e; font-weight: bold; margin-bottom: 10px;">
 🛠️ Java • Android Studio • Firebase • ML Kit OCR • Azure
 </div>
+<a href="https://github.com/Vanyanain/Automated-Expense-Manager/releases"><img src="https://img.shields.io/badge/📦_Download-APK_Release-ff3333?style=flat-square&labelColor=0d1117&logo=android&logoColor=3DDC84" alt="Download APK Release" /></a>
 </div>
 </td>
 </tr>
@@ -452,10 +457,6 @@ An advanced Android application designed to track every single Berry spent on yo
 <!-- Contribution Activity Graph -->
 <br /><br />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanyanain&bg_color=0d1117&color=ffcc00&line=ff3333&point=ffffff&area=true&hide_border=true&custom_title=⚓%20Grand%20Line%20Contribution%20Voyage" alt="Activity Graph" width="95%" />
-
-<!-- Contribution Snake -->
-<br /><br />
-<img src="https://raw.githubusercontent.com/Vanyanain/Vanyanain/output/snake.svg" alt="Snake animation" width="95%" />
 
 </div>
 
