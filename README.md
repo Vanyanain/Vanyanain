@@ -5,7 +5,7 @@
 <!-- Animated Typewriter Title -->
 <br />
 <img src="header_name.svg?v=2" height="45" alt="🏴‍☠️ Vanya Nain 🏴‍☠️" />
-<h3>✨ Machine Learning Adventurer  ✨</h3>
+<h3>✨ Machine Learning and software development Adventurer  ✨</h3>
 
 <p>
 <a href="https://linkedin.com/in/vanya-nain-2a5739303/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
