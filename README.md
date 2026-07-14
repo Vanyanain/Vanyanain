@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://github.com/Vanyanain">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=600&lines=Setting+sail+on+the+Grand+Line+of+Machine+Learning;Chasing+the+One+Piece+of+Deep+Learning;Building+Android+apps+worthy+of+a+Yonko;I'm+gonna+be+King+of+the+Coders!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFCC00&center=true&vCenter=true&width=600&lines=Setting+sail+on+the+Grand+Line+of+Machine+Learning;Chasing+the+One+Piece+of+Deep+Learning;Building+Android+apps+worthy+of+a+Yonko" alt="Typing SVG" />
 </a>
 </p>
 
