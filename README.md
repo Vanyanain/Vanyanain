@@ -134,8 +134,6 @@
 <img src="header_exp.svg?v=2" height="40" alt="🏴‍☠️ Marine Expeditions (My Journey & Experience)" />
 <br /><br />
 
-- 🌟 **GirlScript Summer of Code (GSSoC)** | *Open Source Contributor* (May 2026 - Aug 2026)
-  - Contributed to open-source projects, bug fixes, and collaborative development using Git & GitHub.
 - 🎤 **TEDx SRMIST** | *Curation Lead* (Sep 2025 - May 2026)
   - Led speaker curation and coordinated event content and storytelling.
 - ⚙️ **ISTE SRMIST** | *Tech Team Core Member* (Jul 2024 - Apr 2026)
